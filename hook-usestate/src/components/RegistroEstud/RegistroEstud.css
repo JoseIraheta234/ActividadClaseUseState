@@ -1,0 +1,48 @@
+#input-nombre,
+#input-edad,
+#input-carnet {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+#btn-agregar {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btn-agregar:hover {
+    background-color: #0056b3;
+}
+
+.container {
+    padding: 20px;
+    background-color: #2e2e2e;
+    color: #fff;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: auto;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#liPepito {
+    background-color: #444;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
